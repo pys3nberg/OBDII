@@ -1,5 +1,4 @@
 __author__ = 'Pysenberg'
-#comms with elm327
 
 import serial
 from serial.tools import list_ports as lp
